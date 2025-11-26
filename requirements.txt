@@ -1,0 +1,11 @@
+deepface==0.0.79
+firebase_admin==6.2.0
+Flask==3.1.2
+Flask_Cors==4.0.0
+imgaug==0.4.0
+numpy==2.3.5
+opencv_python==4.12.0.88
+opencv_python_headless==4.12.0.88
+scikit_learn==1.7.2
+tensorflow==2.12.0
+tensorflow_intel==2.12.0
